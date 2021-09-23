@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"signal.h": "c",
+			"stdlib.h": "c",
+			"time.h": "c",
+			"*.tcc": "cpp"
+		}
+	}
+}
